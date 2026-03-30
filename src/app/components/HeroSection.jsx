@@ -35,7 +35,7 @@ const HeroSection = () => {
             />
           </h1>
           <p className="text-[#ADB7BE] text-base sm:text-lg mb-8 lg:text-xl max-w-2xl leading-relaxed">
-            "The goal of artificial intelligence is not to replace humans, but to augment human capabilities."
+            &quot;The goal of artificial intelligence is not to replace humans, but to augment human capabilities.&quot;
             Guided by this vision, I focus on developing intelligent systems that support decision-making and solve complex technological challenges.
           </p>
           <div className="flex flex-col sm:flex-row gap-4">
